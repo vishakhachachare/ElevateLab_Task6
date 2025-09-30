@@ -23,6 +23,22 @@ Deploy a simple HTML website using **GitHub Pages**.
 
 ---
 
+## ⚙️ Steps I Followed
+
+1. Created a folder named Task06.
+   
+2. Inside it, I added an index.html file with some simple content and CSS styling.
+   
+3.  initialized a Git repo and pushed the code to GitHub.
+   
+4. Then, I went to Settings > Pages in the repo.
+   
+5. I enabled GitHub Pages and chose the main branch and root directory.
+   
+6. GitHub provided a live link — and just like that, my website was live! 🎉
+
+---
+
 ## 🖥️ How to Run Locally  
 1️⃣ Clone the repository:  
 ```bash
