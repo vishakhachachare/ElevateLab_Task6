@@ -30,5 +30,12 @@ git clone https://github.com/<username>/<repo-name>.git
 cd <repo-name>
 ```
 
-## Live Link
-[View Website](https://vishakhachachare.github.io/ElevateLab_Task6/)
+2️⃣ Open index.html in your browser 🌟
+
+---
+
+## 🔗 Live Link
+
+[👉View Website](https://vishakhachachare.github.io/ElevateLab_Task6/)
+
+---
